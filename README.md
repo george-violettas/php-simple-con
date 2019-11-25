@@ -2,7 +2,7 @@
 Very simple and easy to understand connection to a php web-project. 
 Find out where the connection happens:
 ```
-phpC.urlCon(connect);//connecting to dB                     
+phpC.urlCon(connect);//Opening the connection to the dB                     
 phpC.urlCon(link); //connecting to  sql/php
 ```
 
